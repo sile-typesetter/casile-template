@@ -1,0 +1,1 @@
+urlinfo = https://example.com
